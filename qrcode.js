@@ -27,6 +27,6 @@ QRCode.toString(stringdata,{type:'terminal'},
 QRCode.toDataURL(stringdata, function (err, code) {
 	if(err) return console.log("error occurred")
 
-	// Printing the code
+	// Printing the code 
 	console.log(code)
 })
