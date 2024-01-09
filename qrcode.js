@@ -30,3 +30,7 @@ QRCode.toDataURL(stringdata, function (err, code) {
 	// Printing the code
 	console.log(code)
 })
+
+
+asdjcbh
+
