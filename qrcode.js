@@ -23,7 +23,7 @@ QRCode.toString(stringdata,{type:'terminal'},
 
 
 
-// Converting the data into base64   
+// Converting the data into base64    
 QRCode.toDataURL(stringdata, function (err, code) {
 	if(err) return console.log("error occurred")
 
